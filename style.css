@@ -20,8 +20,6 @@ body {
 .jumbotron {
   background-image: url('http://fc04.deviantart.net/fs70/i/2014/016/0/7/notice_me_senpai_by_0zukachan0-d72fibw.jpg'); 
   background-position: center; 
-  height: 1024px;
-  width: 768px;
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
