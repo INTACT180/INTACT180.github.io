@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://i175.photobucket.com/albums/w140/DRAVOR/black-thread.png') repeat left top;
+  background: #202024 url('http://fc04.deviantart.net/fs70/i/2014/016/0/7/notice_me_senpai_by_0zukachan0-d72fibw.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://i175.photobucket.com/albums/w140/DRAVOR/bg.png'); 
+  background-image: url('http://fc04.deviantart.net/fs70/i/2014/016/0/7/notice_me_senpai_by_0zukachan0-d72fibw.jpg'); 
   background-position: center; 
   height: 100%;
   -webkit-background-size: cover;
